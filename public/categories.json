@@ -1,0 +1,18 @@
+[
+    {
+        "category": "Dog",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg"
+    },
+    {
+        "category": "Cat",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg"
+    },
+    {
+        "category": "Rabbit",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg"
+    },
+    {
+        "category": "Bird",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg"
+    }
+]
